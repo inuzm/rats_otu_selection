@@ -1,0 +1,6 @@
+"OTU","pvalues","model","score","g1","g2","g1vsg2","adj_pvalues","hlevel","sign_rank","OtuClass"
+"ef26904830b91caa86a460c041c77fd4",0,"zip",93559.0327859527,1,0,"1_vs_0",0,"phylum",1,"ef26904830b91caa86a460c041c77fd4phylum"
+"3ab61ffb86b753b43f425d630a87e7a1",0,"zip",35225.5617981784,1,0,"1_vs_0",0,"phylum",2,"3ab61ffb86b753b43f425d630a87e7a1phylum"
+"ef26904830b91caa86a460c041c77fd4",0,"zip",80226.4898013931,1,0,"1_vs_0",0,"order",3,"ef26904830b91caa86a460c041c77fd4order"
+"3ab61ffb86b753b43f425d630a87e7a1",0,"zip",35224.0457188031,1,0,"1_vs_0",0,"order",4,"3ab61ffb86b753b43f425d630a87e7a1order"
+"6a2635af5e61db824708f2a95508a4b5",0,"zip",144790.298271297,1,0,"1_vs_0",0,"genus",5,"6a2635af5e61db824708f2a95508a4b5genus"

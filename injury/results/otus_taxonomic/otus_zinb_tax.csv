@@ -1,0 +1,6 @@
+"OTU","g1vsg2","hlevel","sign_rank","Kingdom","Phylum","Class","Order","Family","Genus"
+"3cbcb339fa3d4786e17ffb756634cd88","1_vs_0","genus",4,"Bacteria","Firmicutes","Negativicutes","Veillonellales-Selenomonadales","Selenomonadaceae","Anaerovibrio"
+"5ffd714a8da718ec7869d163ecbd57f8","1_vs_0","genus",5,"Bacteria","Firmicutes","Clostridia","Oscillospirales","Ruminococcaceae","[Eubacterium]_siraeum_group"
+"69b7bf31c6bdd293fa911662b38b206a","1_vs_0","genus",1,"Bacteria","Firmicutes","Bacilli","Erysipelotrichales","Erysipelotrichaceae","uncultured"
+"cd3628f9907206ae4649dd3f2679b258","1_vs_0","genus",3,"Bacteria","Firmicutes","Bacilli","Lactobacillales","Streptococcaceae","Streptococcus"
+"db9648e6ade64e0be703e995a1abf24c","1_vs_0","genus",2,"Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","uncultured","uncultured"

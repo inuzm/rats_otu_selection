@@ -1,0 +1,6 @@
+"OTU","g1vsg2","hlevel","sign_rank","Kingdom","Phylum","Class","Order","Family","Genus"
+"3c74744397053ce981bef9ea5e0bc926","1_vs_0","genus",3,"Bacteria","Firmicutes","Clostridia","Lachnospirales","Lachnospiraceae","Lachnospiraceae_NK4A136_group"
+"4f75b2e18a41280d3a51b71dfd217114","1_vs_0","order",1,"Bacteria","Firmicutes","Bacilli","RF39",NA,NA
+"4f75b2e18a41280d3a51b71dfd217114","1_vs_0","genus",4,"Bacteria","Firmicutes","Bacilli","RF39","RF39","RF39"
+"cc123101a9c3b4bab74a5a3407e5d5be","1_vs_0","genus",5,"Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Prevotellaceae","uncultured"
+"ef868a9f9181104c630bce11a89cffee","1_vs_0","genus",2,"Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotellaceae_UCG-003"

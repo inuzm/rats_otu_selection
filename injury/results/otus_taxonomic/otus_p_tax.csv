@@ -1,0 +1,6 @@
+"OTU","g1vsg2","hlevel","sign_rank","Kingdom","Phylum","Class","Order"
+"1b039cbaab99f38bec0461ac24d07eec","1_vs_0","phylum",1,"Bacteria","Bacteroidota",NA,NA
+"1b039cbaab99f38bec0461ac24d07eec","1_vs_0","order",5,"Bacteria","Bacteroidota","Bacteroidia","Bacteroidales"
+"2bf1dfcdeca6629135f4014f138344ae","1_vs_0","phylum",2,"Bacteria","Firmicutes",NA,NA
+"3ab61ffb86b753b43f425d630a87e7a1","1_vs_0","phylum",4,"Bacteria","Cyanobacteria",NA,NA
+"ef26904830b91caa86a460c041c77fd4","1_vs_0","phylum",3,"Bacteria","Verrucomicrobiota",NA,NA

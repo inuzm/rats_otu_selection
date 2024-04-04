@@ -1,0 +1,6 @@
+"OTU","pvalues","model","score","g1","g2","g1vsg2","adj_pvalues","hlevel","sign_rank","OtuClass"
+"1b039cbaab99f38bec0461ac24d07eec",0,"p",17516.3738302579,1,0,"1_vs_0",0,"phylum",1,"1b039cbaab99f38bec0461ac24d07eecphylum"
+"2bf1dfcdeca6629135f4014f138344ae",0,"p",43651.1644662167,1,0,"1_vs_0",0,"phylum",2,"2bf1dfcdeca6629135f4014f138344aephylum"
+"ef26904830b91caa86a460c041c77fd4",0,"p",107581.958221066,1,0,"1_vs_0",0,"phylum",3,"ef26904830b91caa86a460c041c77fd4phylum"
+"3ab61ffb86b753b43f425d630a87e7a1",0,"p",43169.8718965285,1,0,"1_vs_0",0,"phylum",4,"3ab61ffb86b753b43f425d630a87e7a1phylum"
+"1b039cbaab99f38bec0461ac24d07eec",0,"p",17496.7886241546,1,0,"1_vs_0",0,"order",5,"1b039cbaab99f38bec0461ac24d07eecorder"

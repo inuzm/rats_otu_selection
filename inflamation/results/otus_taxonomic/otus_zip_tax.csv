@@ -1,0 +1,11 @@
+"OTU","g1vsg2","hlevel","sign_rank","Kingdom","Phylum","Class","Order","Family","Genus"
+"183d7a6a20b38695342d58bce245f3be","1_vs_0","phylum",9,"Bacteria","Spirochaetota",NA,NA,NA,NA
+"183d7a6a20b38695342d58bce245f3be","1_vs_0","order",10,"Bacteria","Spirochaetota","Spirochaetia","Spirochaetales",NA,NA
+"31838e38978812ddc9e0a8a7d40cc0c2","1_vs_0","genus",6,"Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotellaceae_Ga6A1_group"
+"3ab61ffb86b753b43f425d630a87e7a1","1_vs_0","phylum",1,"Bacteria","Cyanobacteria",NA,NA,NA,NA
+"3ab61ffb86b753b43f425d630a87e7a1","1_vs_0","order",2,"Bacteria","Cyanobacteria","Vampirivibrionia","Gastranaerophilales",NA,NA
+"3ab61ffb86b753b43f425d630a87e7a1","1_vs_0","genus",5,"Bacteria","Cyanobacteria","Vampirivibrionia","Gastranaerophilales","Gastranaerophilales","Gastranaerophilales"
+"6a2635af5e61db824708f2a95508a4b5","1_vs_0","genus",3,"Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella"
+"8a76ae8f05f80339a90912b26ea25f46","1_vs_0","genus",4,"Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Prevotellaceae","Alloprevotella"
+"ce4aa74df6165cfd3b5067fe005f94c4","1_vs_0","genus",7,"Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Rikenellaceae","Rikenellaceae_RC9_gut_group"
+"e31f9ce930e813ad3cc0390b0f8b5a9c","1_vs_0","genus",8,"Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Tannerellaceae","Parabacteroides"

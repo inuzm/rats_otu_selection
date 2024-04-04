@@ -1,0 +1,6 @@
+"OTU","g1vsg2","hlevel","sign_rank","Kingdom","Phylum","Class","Order","Family","Genus"
+"3ab61ffb86b753b43f425d630a87e7a1","1_vs_0","phylum",2,"Bacteria","Cyanobacteria",NA,NA,NA,NA
+"3ab61ffb86b753b43f425d630a87e7a1","1_vs_0","order",4,"Bacteria","Cyanobacteria","Vampirivibrionia","Gastranaerophilales",NA,NA
+"6a2635af5e61db824708f2a95508a4b5","1_vs_0","genus",5,"Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotella"
+"ef26904830b91caa86a460c041c77fd4","1_vs_0","phylum",1,"Bacteria","Verrucomicrobiota",NA,NA,NA,NA
+"ef26904830b91caa86a460c041c77fd4","1_vs_0","order",3,"Bacteria","Verrucomicrobiota","Verrucomicrobiae","Verrucomicrobiales",NA,NA

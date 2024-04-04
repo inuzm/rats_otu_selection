@@ -1,0 +1,11 @@
+"OTU","g1vsg2","hlevel","sign_rank","Kingdom","Phylum","Class","Order","Family","Genus"
+"30d87e91be256a2b5f96b636ef04cda2","1_vs_0","genus",4,"Bacteria","Firmicutes","Clostridia","Peptostreptococcales-Tissierellales","Peptostreptococcaceae","Romboutsia"
+"4f75b2e18a41280d3a51b71dfd217114","1_vs_0","order",1,"Bacteria","Firmicutes","Bacilli","RF39",NA,NA
+"4f75b2e18a41280d3a51b71dfd217114","1_vs_0","genus",2,"Bacteria","Firmicutes","Bacilli","RF39","RF39","RF39"
+"639672056ddfd18a689d67ba219c3949","1_vs_0","genus",3,"Bacteria","Firmicutes","Clostridia","Oscillospirales","Oscillospiraceae","UCG-005"
+"66d5d32176dc67ca5d677fff17c9958b","1_vs_0","genus",9,"Bacteria","Firmicutes","Clostridia","Lachnospirales","Lachnospiraceae","[Ruminococcus]_gauvreauii_group"
+"937aa3d1b6bf848fed5bdb6fd3140c84","1_vs_0","genus",10,"Bacteria","Firmicutes","Clostridia","Lachnospirales","Lachnospiraceae","Hungatella"
+"b6ebd5803375c0c9a35829056727c9fc","1_vs_0","genus",5,"Bacteria","Firmicutes","Clostridia","Peptostreptococcales-Tissierellales","Peptostreptococcaceae","Clostridioides"
+"c72a384d64a1a7d58c56ec4e7d2ea277","1_vs_0","genus",7,"Bacteria","Firmicutes","Clostridia","Lachnospirales","Lachnospiraceae","Eisenbergiella"
+"ebd83f31171d55342ce685111a429664","1_vs_0","genus",8,"Bacteria","Firmicutes","Clostridia","Lachnospirales","Lachnospiraceae","Marvinbryantia"
+"ef868a9f9181104c630bce11a89cffee","1_vs_0","genus",6,"Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotellaceae_UCG-003"

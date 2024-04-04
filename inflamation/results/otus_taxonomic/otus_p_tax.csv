@@ -1,0 +1,11 @@
+"OTU","g1vsg2","hlevel","sign_rank","Kingdom","Phylum","Class","Order","Family","Genus"
+"012ef658933550c9ae6719455ba247de","1_vs_0","order",8,"Bacteria","Firmicutes","Clostridia","Oscillospirales",NA,NA
+"1b039cbaab99f38bec0461ac24d07eec","1_vs_0","phylum",1,"Bacteria","Bacteroidota",NA,NA,NA,NA
+"1b039cbaab99f38bec0461ac24d07eec","1_vs_0","order",4,"Bacteria","Bacteroidota","Bacteroidia","Bacteroidales",NA,NA
+"1b039cbaab99f38bec0461ac24d07eec","1_vs_0","genus",9,"Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Prevotellaceae","Prevotellaceae_NK3B31_group"
+"2bf1dfcdeca6629135f4014f138344ae","1_vs_0","phylum",2,"Bacteria","Firmicutes",NA,NA,NA,NA
+"2bf1dfcdeca6629135f4014f138344ae","1_vs_0","order",5,"Bacteria","Firmicutes","Bacilli","Lactobacillales",NA,NA
+"3ab61ffb86b753b43f425d630a87e7a1","1_vs_0","phylum",3,"Bacteria","Cyanobacteria",NA,NA,NA,NA
+"3ab61ffb86b753b43f425d630a87e7a1","1_vs_0","order",7,"Bacteria","Cyanobacteria","Vampirivibrionia","Gastranaerophilales",NA,NA
+"abdbe368fbd4c7c608e05ef71713340a","1_vs_0","order",6,"Bacteria","Firmicutes","Clostridia","Lachnospirales",NA,NA
+"ddb5124b46f97d3a81bcba281fde7ee7","1_vs_0","genus",10,"Bacteria","Bacteroidota","Bacteroidia","Bacteroidales","Bacteroidaceae","Bacteroides"
